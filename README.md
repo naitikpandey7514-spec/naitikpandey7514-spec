@@ -20,14 +20,13 @@ Email Me 👉 ✉️ **naitikpandey7514@gmail.com** Ask For Anything Else. 😊�
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=naitikpandey7514-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=naitikpandey7514-spec&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=naitikpandey7514-spec&theme=tokyonight)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=naitikpandey7514-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naitikpandey7514-spec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
