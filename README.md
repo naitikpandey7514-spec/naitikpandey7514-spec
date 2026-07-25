@@ -1,9 +1,45 @@
-# 💫 Hi 👋, i'm Naitik Pandey
-**2nd year Btech Student || AI|ML ||**
+<h1 align="center">Hi 👋, I'm Naitik Pandey</h1>
+
+<h3 align="center">
+AI & Machine Learning Student | Java | Python |
+</h3>
+
+<p align="center">
+<img src="banner.png" alt="Naitik Pandey Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Exploring+Artificial+Intelligence;Learning+Machine+Learning+%26+Deep+Learning;Building+AI+Projects;Always+Learning+%F0%9F%9A%80" />
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naitikpandey7514-spec&label=PROFILE+VIEWS&style=for-the-badge&color=00D4FF" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/naitikpandey7514-spec?label=FOLLOWERS&style=for-the-badge&color=00D4FF" alt="Followers" />
+
+# 👨‍💻 About Me
+
+```java
+class NaitikPandey {
+
+    String education = "B.Tech (AI & ML)";
+    String country = "India";
+
+    String[] learning = {
+        "Java",
+        "Python",
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Machine Learning"
+    };
+
+    String goal = "Become a AI Engineer";
+}
+```
 
 Email Me 👉 ✉️ **naitikpandey7514@gmail.com** Ask For Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Machin Learning, Java Script
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**naitikpandey7514@gmail.com
 - 😄 **Pronouns:** Naitik Pandey
@@ -22,6 +58,10 @@ Email Me 👉 ✉️ **naitikpandey7514@gmail.com** Ask For Anything Else. 😊�
 ![](https://github-readme-stats.shion.dev/api?username=naitikpandey7514-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=naitikpandey7514-spec&theme=tokyonight)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=naitikpandey7514-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=naitikpandey7514-spec&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naitikpandey7514-spec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
