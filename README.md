@@ -14,7 +14,9 @@
 </div>
 
 ---
-
+<p align="center">
+<img src="banner.png" alt="Naitik Pandey Banner" width="100%">
+</p>
 
 <br>
 
