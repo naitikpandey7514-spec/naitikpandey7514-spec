@@ -1,13 +1,10 @@
 
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0A0A2E,100:00F7FF&height=200&section=header&text=NAITIK%20PANDEY&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=58&descSize=18&descColor=8A2BE2&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:1A1A1A&height=200&section=header&text=NAITIK%20PANDEY&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Explorer%20%7C%20Learner&descAlignY=58&descSize=18&descColor=BDBDBD&animation=fadeIn" width="100%"/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+NAITIK+%F0%9F%91%8B;Building+cool+stuff+with+Python+%26+JS+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborations+%26+new+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello+I'm+NAITIK+%F0%9F%91%8B;AI+%26+ML+Student+Exploring+The+Future+%F0%9F%A4%96;Developer+%7C+Problem+Solver+%F0%9F%92%BB;Building+Innovative+Projects+With+Code+%F0%9F%9A%80;Learning+New+Technologies+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=naitikpandey7514-spec&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
