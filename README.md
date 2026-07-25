@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Naitik Pandey</h1>
 
-<h3 align="center">
-AI & Machine Learning Student | Java | Python |
-</h3>
 
-<p align="center">
-<img src="banner.png" alt="Naitik Pandey Banner" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Exploring+Artificial+Intelligence;Learning+Machine+Learning+%26+Deep+Learning;Building+AI+Projects;Always+Learning+%F0%9F%9A%80" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0A0A2E,100:00F7FF&height=200&section=header&text=NAITIK%20PANDEY&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=58&descSize=18&descColor=8A2BE2&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+NAITIK+%F0%9F%91%8B;Building+cool+stuff+with+Python+%26+JS+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborations+%26+new+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=naitikpandey7514-spec&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/bhupendrasharmaX?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0D0D0D" alt="Followers"/>
+
+</div>
+
+---
+
+
 <br>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naitikpandey7514-spec&label=PROFILE+VIEWS&style=for-the-badge&color=00D4FF" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/naitikpandey7514-spec?label=FOLLOWERS&style=for-the-badge&color=00D4FF" alt="Followers" />
 
-# 👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 ```java
 class NaitikPandey {
 
-    String education = "B.Tech (AI & ML)";
-    String country = "India";
+     Education = "B.Tech (AI & ML)";
+     country = "India";
 
-    String[] learning = {
+    learning = {
         "Java",
         "Python",
         "Data Structures & Algorithms",
@@ -34,7 +38,7 @@ class NaitikPandey {
         "Machine Learning"
     };
 
-    String goal = "Become a AI Engineer";
+   goal = "Become a AI Engineer";
 }
 ```
 
