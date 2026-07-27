@@ -21,12 +21,14 @@
 ## 👨‍💻 About Me
 
 ```java
-class NaitikPandey {
+```java
+class AboutMe {
 
-     Education = "B.Tech (AI & ML)";
-     country = "India";
+    String name = "Naitik Pandey";
+    String education = "B.Tech (AI & ML)";
+    String country = "India";
 
-    learning = {
+    String[] learning = {
         "Java",
         "Python",
         "Data Structures & Algorithms",
@@ -34,10 +36,26 @@ class NaitikPandey {
         "Machine Learning"
     };
 
-   goal = "Become a AI Engineer";
+    String[] techStack = {
+        "Python",
+        "Java",
+        "JavaScript",
+        "C",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "IntelliJ IDEA"
+    };
+
+    String currentFocus =
+        "Building projects, improving problem-solving skills, and exploring AI & Machine Learning.";
+
+    String goal = "Learn • Build • Innovate • Repeat";
 }
 ```
-
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**naitikpandey7514@gmail.com
 - 😄 **Pronouns:** Naitik Pandey
