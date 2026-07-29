@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:1A1A1A&height=200&section=header&text=NAITIK%20PANDEY&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Explorer%20%7C%20Learner&descAlignY=58&descSize=18&descColor=BDBDBD&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:1A1A1A&height=200&section=header&text=NAITIK%20PANDEY&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Building%20%7C%20Learning%20%7C%20Innovating&descAlignY=58&descSize=18&descColor=BDBDBD&animation=fadeIn" width="100%"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello+I'm+NAITIK+%F0%9F%91%8B;AI+%26+ML+Student+Exploring+The+Future+%F0%9F%A4%96;Developer+%7C+Problem+Solver+%F0%9F%92%BB;Building+Innovative+Projects+With+Code+%F0%9F%9A%80;Learning+New+Technologies+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -36,7 +36,7 @@ class AboutMe {
     };
 
     TechStack = {
-     "language" :  [ "Python","Java","JavaScript","C",];
+     "Language" :  [ "Python","Java","JavaScript","C",];
       Frontend :  ["HTML","CSS","Bootstrap"];
        Tools : ["Git","GitHub","VS Code","IntelliJ IDEA"];
     };
